@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="curriculo_line.css">
+
+</head>
+<body>
+<div style="text-align: center;">
+    <h2>FORMAÇÃO ACADÊMICA</h2>
+  <ul class="formacao_line.html">
+    <li>Analise e Desenvolvimento de Sistemas - SENAC</li>
+    <li>Biblio-teconomia - Universidade Federal de PE</li>
+    <li>Especialização em CyberSegurança </li>
+  </ul>
+  
+</body>
+</html>
