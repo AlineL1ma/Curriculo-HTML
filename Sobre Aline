@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="curriculo_line.css">
+  <title>Sobre</title>
+</head>
+<body class="sobre_line.html">
+    <h2 class="h22"><b>Sobre</b></h2>
+    <p class="sobreP"> 
+
+        <div style="text-align: center; font-size: small; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+            <div style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"></div>
+            <h3>Sobre:</h3>
+            <p>Nascida e criada na cidade do Recife, atualmente estou Graduando em Analise e desenvolvimento de Sistemas pela Faculdade do SENAC e<br>
+            juntamente Graduando em Biblioteconomia pela UFPE. Participei de eventos como o ProjetAí pelo SENAC, onde em equipe ganhamos um<br>
+            prêmio como Projeto destaque no Primeiro Período do curso; participei das residências para o Porto Digital como Gestora de Projetos, onde<br>
+            em equipe desenvolvemos uma solução para mitigar o problema apresentado, e tive experiência com a testagem de softwares e correções<br>
+            de bugs para a empresa CESAR.<br>
+
+</body>
+</html>
