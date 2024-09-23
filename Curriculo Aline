@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href= "curriculo_line.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+
+        <div class="content">
+            <div style="text-align: center;">
+            <body  style="background-color: white;">
+            <div style="font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; font-variant: normal">
+            <h2> Aline Lima</h2>
+            <img class="iframe__foto" ; src="C:\Users\aline\OneDrive\Pictures\Aline fotos\2023-12-07-20-19-31-865.jpg" alt="Image" height="145" width="260" style="border-radius: 10px;" ></img>
+            <p class="subtitulo">Desenvolvedora de Sistemas</p>
+            <hr>
+        </header>
+
+    </div>
+    <div class="conteudos__hr">
+    <div classs="divA">
+
+        <a href="/sobre_line.html" target="iframe__main">Sobre</a>
+        <a href="/formacao_line.html" target="iframe__main">Formação</a>
+        <a href="/habilidades_line.html" target="iframe__main" >Habilidades</a>
+        <a href="/contato_line.html" target="iframe__main" >Contato</a>
+
+    </div>
+
+    <br>
+</header>
+<div class="body">
+<iframe src="/sobre_line.html"class = "iframe__main" name="iframe__main" width="99%" height="500px">Formação </iframe>
+</div>
+</body>
+</html>
