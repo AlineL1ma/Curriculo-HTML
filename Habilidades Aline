@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="curriculo_line.css">
+  <title>Habilidades</title>
+</head>
+<body>
+    <h2 class="h22">Habilidades</h2>
+    <ul class="habilidades_line.html">
+      <li><i class="fa-brands fa-java"></i>Java</li>
+      <li><i id="ii" class="fa-brands fa-html5" style="color: #ffa53d;"></i><i class="fa-brands fa-css3-alt" style="color: #74C0FC;"></i>Html5&Css3</li>
+      <li><i class="fa-solid fa-database" style="color: darkblue;"></i>MySQL</li>
+      <li><i class="fa-brands fa-brmodelo"></i>brModelo</li>
+      <li><i class="fa-brands fa-figma"></i>Figma</li>
+      <li><i class="fa-brands fa-phyton"></i>Python</li>
+      <li><i class="fa-brands fa-canva"></i>Canva</li>
+      <li><i class="fa-brands fa-js" style="color: rgb(235, 235, 49)" ></i>JavaScript</li>
+      <li><i class="fa-solid fa-flag-usa"></i>Inglês avançado</li>
+    </ul>
+    
+</body>
+</html>
